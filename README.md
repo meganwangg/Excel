@@ -1,2 +1,2 @@
 # Excel
-I used the Excel spreadsheets to collect,  organize, and visulize the data for my statistical analyst summer research intern project.  
+I used Excel spreadsheets to collect,  organize, and visualize the data for my statistical analyst summer research project.  
